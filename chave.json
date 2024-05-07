@@ -1,0 +1,13 @@
+{
+  "type": "preencha aqui",
+  "project_id": "preencha aqui",
+  "private_key_id": "preencha aqui",
+  "private_key": "preencha aqui",
+  "client_email": "preencha aqui",
+  "client_id": "preencha aqui",
+  "auth_uri": "preencha aqui",
+  "token_uri": "preencha aqui",
+  "auth_provider_x509_cert_url": "preencha aqui",
+  "client_x509_cert_url": "preencha aqui",
+  "universe_domain": "preencha aqui"
+}
